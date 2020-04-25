@@ -1,4 +1,4 @@
 # rpm_bf
-Read Process Memory (Drawer) to obtain memory offsets of Battlefield.
+RPM drawer to obtain memory offsets of Battlefield 4.
 
 A small reversing project. 
